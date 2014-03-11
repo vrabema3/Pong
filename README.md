@@ -1,0 +1,4 @@
+Pong
+====
+
+CVUT Semestralka - PONG
